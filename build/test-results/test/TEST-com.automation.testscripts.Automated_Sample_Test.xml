@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.automation.testscripts.Automated_Sample_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-25T17:00:58" hostname="ShawBTemp-3102" time="2.916">
+  <properties/>
+  <testcase name="Automated Sample Test" classname="com.automation.testscripts.Automated_Sample_Test" time="2.916"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 75.0.3770.140 (2d9f97485c7b07dc18a74666574f19176731995c-refs/branch-heads/3770@{#1155}) on port 18625
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Jul 25, 2019 12:00:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
